@@ -1,2 +1,4 @@
 # GRA-INTER
-Intermediate computrer graphics
+
+Intermediate computer graphics
+
